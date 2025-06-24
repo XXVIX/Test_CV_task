@@ -1,0 +1,4 @@
+full_plate
+empty_plate
+cutlery
+glass
